@@ -1,2 +1,2 @@
-# Myproject_The_first_One
-My first Git project
+# MySuperRepo
+This is my first repository as a full-stack engineer
